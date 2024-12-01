@@ -1,13 +1,6 @@
 
 # Homework Assignment 1 - Solutions
 
-### General Information
-- **Responsible Teaching Assistant**: Ariel Cohen
-- For quick answers regarding this assignment, please ask in Piazza under the label HW1.
-- Office hours: Thursday, 17:00–18:00 (Email coordination required).
-
----
-
 ## Structure
 The program receives the question number as input. Based on the question number, additional inputs will be provided. The program executes and produces outputs as follows:
 
